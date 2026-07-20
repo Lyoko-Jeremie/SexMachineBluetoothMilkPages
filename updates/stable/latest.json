@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "channel": "stable",
+  "version": "0.1.19",
+  "bundleUrl": "../bundles/0.1.19/app.zip",
+  "sha256": "eb0d86859317074f77601a4ad6ae0bd960dcbc02255258ee7fa13fc9b7aa28bd",
+  "minNativeBuild": 1,
+  "maxNativeBuild": 1,
+  "protocolRevision": 1,
+  "publishedAt": "2026-07-20T03:12:59.842Z",
+  "mandatory": false,
+  "signature": "ntwDkrpcDt4ESqoXDI5xJd75MoGYERY9umexGQL0ZhkHl6tX+ydLdEgzQH/s5mDqXacvF1KUNs9/rXVgH30F8fUShAI8bmoXmeBG3OeeUyX6kJLFGF3Mrxh3J8+euy5PLP/fCJCvTnNNoL+t43Tg/ncpvcMp3cX9ManJPzmu/eTsiI+tmRznwxrY38GsBZvvS6C4xiL/ukDJ4m1T9467rqMO746+I40ipwN37Kk4EUzzcaD0ePVFwa9/BIrhxsNpgfNAkOtw0G7CnpO2RmNFQtbuR+zXo3P/GarnlDUKuuhO+oIcHYCfmIk2fvdiDX2VUk7uPaPZ/yPwRcnXzi8oH3eoPrfnnn71qvQw5bf+GVZ13W2hU8n3S43S4UdPAP3aGspsJQAR83rSAw+v3kuYO3Lh6ZLRYt3oqoLNzSJM8t1Jl6DAQ3Bq0bOQFZdw1pMzSwFqAWHNmnyyiyWLQjMEe4tr1tt1y+X4apvnn+g7s85bI8Xqhybajjg3CcjClJwF"
+}
